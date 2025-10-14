@@ -5,7 +5,7 @@
 
 It bridges the gap between customers and service providers by offering a modern, efficient, and user-friendly experience designed to replace traditional manual booking processes.
 
-<img width="500" height="500" alt="1 log" src="https://github.com/user-attachments/assets/9645a00e-904b-40b0-85ec-b420243936ec" />
+<img width="500" height="1000" alt="1 log" src="https://github.com/user-attachments/assets/9645a00e-904b-40b0-85ec-b420243936ec" />
 <img width="828" height="1792" alt="2" src="https://github.com/user-attachments/assets/f1c9cd89-179a-4550-9999-bcabca9a6f05" />
 <img width="828" height="1792" alt="3" src="https://github.com/user-attachments/assets/d804414b-fd49-4bd2-bc4b-2dcc69c522ff" />
 <img width="828" height="1792" alt="4" src="https://github.com/user-attachments/assets/8e32d526-4e94-4690-9ab8-7385abf56e17" />
