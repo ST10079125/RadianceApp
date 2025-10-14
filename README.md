@@ -9,12 +9,7 @@ It bridges the gap between customers and service providers by offering a modern,
 <img width="500" height="1000" alt="2" src="https://github.com/user-attachments/assets/f1c9cd89-179a-4550-9999-bcabca9a6f05" />
 <img width="500" height="1000" alt="3" src="https://github.com/user-attachments/assets/d804414b-fd49-4bd2-bc4b-2dcc69c522ff" />
 <img width="500" height="1000" alt="4" src="https://github.com/user-attachments/assets/8e32d526-4e94-4690-9ab8-7385abf56e17" />
-
 <img width="500" height="1000" alt="7" src="https://github.com/user-attachments/assets/2e1f5e3f-fdc4-446c-87d4-d9fc7740e35c" />
-![8](https://github.com/user-attachments/assets/82c8f3e6-f3fe-40dc-8435-de2b469a42a1)
-
-
-
 ---
 
 ## 🎯 Purpose of the Application
