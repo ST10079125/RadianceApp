@@ -125,7 +125,7 @@ GitHub acts as the main repository for managing code, documentation, and project
 **Example Git Commands:**
 ```bash
 # Clone repository
-git clone https://github.com/username/RadianceHub.git
+git clone https://github.com/ST10079125/RadianceApp
 
 # Create feature branch
 git checkout -b feature/booking-system
