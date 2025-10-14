@@ -4,6 +4,7 @@
 **RadianceHub** is a digital beauty and wellness booking platform that simplifies how clients connect with salons and beauticians. The application enables users to explore services, view professional profiles, schedule appointments, and make secure payments — all from a single interface.
 
 It bridges the gap between customers and service providers by offering a modern, efficient, and user-friendly experience designed to replace traditional manual booking processes.
+<img width="828" height="1792" alt="7" src="https://github.com/user-attachments/assets/8849c939-88ba-4747-962c-9d29bc031173" />
 
 ---
 
